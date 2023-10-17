@@ -12,7 +12,9 @@ Please note that this README provides an overview of the available exercises and
 
 1. [Exercise 2.26: File Copy Program](2.26)  
    - **Description:** Implement a program that copies the contents of one file to another, including source file existence verification.
-
+   - <a href="#">
+     <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status Completed">
+   </a>
 #### Programming Projects
 2. [Linux Kernel Modules](#) 
    - **Description:** Implement Linux Kernel Modules for...
