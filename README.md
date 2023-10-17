@@ -14,8 +14,8 @@ Please note that this README provides an overview of the available exercises and
    - **Description:** Implement a program that copies the contents of one file to another, including source file existence verification.
 
 #### Programming Projects
-2. [Linux Kernel Modules](#) <a href="#">
-     <img src="https://img.shields.io/badge/Status-Completed-red?style=for-the-badge" alt="Status In Development">
-   </a>
+2. [Linux Kernel Modules](#) 
    - **Description:** Implement Linux Kernel Modules for...
-
+   <a href="#">
+     <img src="https://img.shields.io/badge/Status-In%20Development-red?style=for-the-badge" alt="Status In Development">
+   </a>
